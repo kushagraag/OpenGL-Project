@@ -26,7 +26,7 @@ void exercise1_3(GLFWwindow* window)
 
 int main()
 {
-	//hi
+	//
 	// Initialize GLFW
 	glfwInit();
 

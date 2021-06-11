@@ -1,0 +1,4 @@
+﻿  glad.c
+  main.cpp
+G:\Projects misc\OpenGL\Finished files\2. Triangle\main.cpp(92,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  FirstProject.vcxproj -> G:\Projects misc\OpenGL\Finished files\2. Triangle\x64\Debug\FirstProject.exe

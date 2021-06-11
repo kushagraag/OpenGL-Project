@@ -1,0 +1,2 @@
+G:\Projects misc\OpenGL\FirstProject\x64\Debug\FirstProject.exe
+G:\Projects misc\OpenGL\Finished files\3.Indices\x64\Debug\FirstProject.exe

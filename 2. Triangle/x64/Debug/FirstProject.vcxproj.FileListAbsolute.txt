@@ -1,0 +1,2 @@
+G:\Projects misc\OpenGL\FirstProject\x64\Debug\FirstProject.exe
+G:\Projects misc\OpenGL\Finished files\2. Triangle\x64\Debug\FirstProject.exe
